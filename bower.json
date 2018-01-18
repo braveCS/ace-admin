@@ -100,7 +100,6 @@
     "fuelux": "latest",
     "jquery.hotkeys": "https://raw.githubusercontent.com/jeresig/jquery.hotkeys/master/jquery.hotkeys.js",
     "jquery.sparkline": "http://omnipotent.net/jquery.sparkline/latest/jquery.sparkline.js"
-  , "_mod": "http://responsiweb.com/ace/updated-components.zip"
 }
 ,
   "devDependencies": {
