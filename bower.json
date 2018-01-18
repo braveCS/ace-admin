@@ -17,7 +17,7 @@
     "node"
   ],
   "homepage": "https://wrapbootstrap.com/theme/ace-responsive-admin-template-WB0B30DGR",
-  "private": true,
+  "private": false,
   "dependencies": { 
     "angular": "latest",
     "angular-animate": "latest",
